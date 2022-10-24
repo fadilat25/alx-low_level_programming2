@@ -1,4 +1,4 @@
-#inclde "main.h"
+#include "main.h"
 /**
  *print_alphabet - prints alphabet in lower case
  *
@@ -11,5 +11,5 @@ for (j = 'a'; j <= 'z'; j++)
 {
 _putchar(j);
 }
-_putchar('\n')
+_putchar('\n');
 }
